@@ -1,7 +1,7 @@
 <h1 align="center">Arduino Radar Scanner</h1>
 <p align="center">
-  <b>Built with an Arduino Uno, Ultrasonic Sensor, and a Servo Motor</b><br>
-  <b>Coded in Arduino language and Python</b><br>
+  <b>Built with an Arduino Uno,</b><br>
+  <b>Ultrasonic Sensor, and a Servo Motor</b><br>
   <br/>
     <img src="https://media4.giphy.com/media/a7Ik5hjrFQuxiPKFZO/giphy.gif?cid=790b76114447ebf8ea64f13217859fbf4f185e4b3e11beb1&rid=giphy.gif&ct=s" width="50" height="50">
 </p>
